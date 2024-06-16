@@ -59,9 +59,9 @@ layout.addWidget(title_label)
 
 def share_email():
     # The email addresses
-    sender_email = "kritanshtank1411@gmail.com"
-    receiver_email = "tankkritansh088@gmail.com"
-    password = "msdm ereg zubw dbsv"  # Your SMTP password
+    sender_email = ""  # Your sender email address
+    receiver_email = ""  # Your receiver email address
+    password = ""  # Your SMTP password
 
     # The email content
     subject = "Message"
