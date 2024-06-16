@@ -109,9 +109,9 @@ layout.addWidget(textbox3, alignment=Qt.AlignCenter)
 
 def share_email():
     # The email addresses
-    sender_email = "tankkritansh088@gmail.com"
-    receiver_email = "kritanshtank1411@gmail.com"
-    password = "iisa uhdc ssym iyjv"  # Your SMTP password
+    sender_email = ""  # Your sender email address
+    receiver_email = ""  # Your receiver email address
+    password = ""  # Your SMTP password
 
     # The email content
     subject = "Message"
